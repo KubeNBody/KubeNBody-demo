@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fdashboard\u002Fcomparisons\u002F[id]","\u002Fdashboard\u002Fjobs\u002F[id]","\u002Fdashboard\u002Fjobs\u002F[id]\u002Fanimation"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
